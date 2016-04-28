@@ -1,6 +1,6 @@
 # svcLossSim
 
-A simulation framework for evaluation the effects of packet loss on a H.264/SVC bitstream. The packet drop behavior can be specified using a LUA script file.
+A simulation framework for emulating the effects of packet loss on a H.264/SVC bitstream. The packet drop behavior can be specified using a LUA script file.
 
 ## Features:
 
