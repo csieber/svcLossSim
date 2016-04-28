@@ -35,6 +35,8 @@ cmake ../
 make
 ```
 
+For a detailed example please see [here](vagrant/README.md).
+
 ## USAGE
 
 ```
